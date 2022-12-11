@@ -1,3 +1,15 @@
+//Name :Syed Ali Ahmed                          department: FBAS/BSSE/F-21
+//Roll No :4308                                 university:International Islamic University Islamabad
+
+//this programm does the following with character arrays
+//         1.Set the string
+//        2. Display the string
+//        3.Search the string
+//        4. delete the string
+//       5.concatination of string
+//     6.Number of character in the string
+//     7.Types of character in the string
+
 #include<iostream>
 #include<iomanip>
 #include<cctype>
